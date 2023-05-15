@@ -1,0 +1,17 @@
+.SearchContainer {
+  /* border: 2px solid black; */
+  height: 100dvh;
+  width: 100dvw;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+
+.searchTitle {
+
+  font-size: 1.5em;
+  padding: 10px 0;
+
+
+}
